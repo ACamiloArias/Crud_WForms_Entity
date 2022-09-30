@@ -1,0 +1,16 @@
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\CrudWnFormsClientes.exe.config
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\CrudWnFormsClientes.exe
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\CrudWnFormsClientes.pdb
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\EntityFramework.dll
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\EntityFramework.xml
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.csproj.AssemblyReference.cache
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.Form1.resources
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.Properties.Resources.resources
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.csproj.GenerateResource.cache
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.csproj.CoreCompileInputs.cache
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.csproj.CopyComplete
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.exe
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.pdb
+C:\Users\PROING\source\repos\CrudWnFormsClientes\CrudWnFormsClientes\obj\Debug\CrudWnFormsClientes.exhibition.FormCliente.resources
